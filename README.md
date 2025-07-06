@@ -39,7 +39,8 @@ This project is a single static webpage introducing me as a Front-End Developer 
 
 ## 📷 Screenshot
 
-![Webpage Screenshot](screenshot.jpg)  
+![Webpage Screenshot](<img width="953" alt="screenshot 12" src="https://github.com/user-attachments/assets/44e099c6-49c0-4a31-87df-28a9c06546ec" />
+)  
 *Screenshot of the rendered webpage in dark mode*
 
 ---
